@@ -175,11 +175,11 @@ The **JGEKD framework** allows the student model to:
 
 ### 👨‍🎓 Author
 
-**Abrar Ahmad**
+**Owais Ahmad Khanday**
 * M.Tech in Artificial Intelligence |
-* Email: [abrar.ahmad@iust.ac.in](mailto:abrar.ahmad@iust.ac.in)
-* LinkedIn: [linkedin.com/in/siyran-shafi](https://www.linkedin.com/in/siyran-shafi)
-* GitHub: [github.com/siyran-shafi](https://github.com/siyran-shafi)
+* Email: [owaisahmadkhanday@gmail.com](mailto:owaisahmadkhanday@gmail.com)
+* LinkedIn: [linkedin.com/in/Owais-Ahmad-Khanday](https://www.linkedin.com/in/Owais-Ahmad-Khanday)
+* GitHub: [github.com/OwaisAIML](https://github.com/OwaisAIML/)
 
 ---
 
